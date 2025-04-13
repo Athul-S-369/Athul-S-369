@@ -59,9 +59,9 @@ I'm a passionate tech enthusiast pursuing B.Tech in Artificial Intelligence at S
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/athulsreejith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athul-s-010117289/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imathul270@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://imathul270.github.io) *(optional)*
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://imathul270.github.io) 
 
 ---
 
