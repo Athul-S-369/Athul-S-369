@@ -23,11 +23,9 @@ Integrate intelligence into systems—AI meets software engineering
 
 Sharpening my edge in DSA, LLMs, and AI infrastructure
 
-### 🧰 Toolbox:
-Python, Flask, TensorFlow, PyTorch, Scikit-learn, Java, C++, Git, Docker, REST APIs, HTML/CSS, JS, SQL, Linux
 ---
 
-## 🔧 Tech Stack
+# 🔧 Tech Stack
 
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
