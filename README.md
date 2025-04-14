@@ -101,7 +101,6 @@ Sharpening my edge in DSA, LLMs, and AI infrastructure
 - 🚗 **Car Rental Website** — Responsive frontend project  
 - 🛰️ **SRM Satellite Proposal** — Ideated AI subsystems with the college innovation club
 
-> Check out my full portfolio at [imathul270.github.io](https://imathul270.github.io) (if hosted)
 
 ---
 
