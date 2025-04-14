@@ -4,10 +4,10 @@
 
 "I don’t just write code—I craft systems that think, learn, and evolve."
 
-🧠 Who I Am:
+# **🧠 Who I Am:**
 Currently navigating the world of Artificial Intelligence as a B.Tech student at SRM Institute of Science and Technology, I’m driven by curiosity and a relentless need to build things that matter. My work bridges intelligent systems with real-world applications—making data move, decisions smarter, and user experiences seamless.
 
-⚙️ What I Do:
+# **⚙️ What I Do:**
 
 Architect ML-powered tools that solve real-world problems
 
@@ -15,11 +15,11 @@ Build end-to-end products from backend logic to frontend magic
 
 Integrate intelligence into systems—AI meets software engineering
 
-📌 Currently Working On:
+# 📌 Currently Working On:
 
-RentPredicto – A rent prediction engine powered by real-time scraped data and ML models
+**RentPredicto** – A rent prediction engine powered by real-time scraped data and ML models
 
-Term Sheet Validator – A fintech-focused automation tool checking legal docs for validity and structure
+**Term Sheet Validator** – A fintech-focused automation tool checking legal docs for validity and structure
 
 Sharpening my edge in DSA, LLMs, and AI infrastructure
 
