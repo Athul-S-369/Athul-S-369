@@ -1,9 +1,30 @@
 # 👋 Hey there, I'm Athul S!
 
-### 🚀 AI Student | 🔬 R&D Lead @ Hyperloop SRM | 💻 Freelancer Turned AI/ML Explorer
+### 🚀 AI Student | 🔬 R&D Lead @ Hyperloop SRM | 💻 Freelancer | AI Explorer | Systems Thinker | Builder of Ideas
 
-I'm a passionate tech enthusiast pursuing B.Tech in Artificial Intelligence at SRM IST, Kattankulathur. I bridge creativity with logic — from building clean websites to solving real-world problems using AI/ML.
+"I don’t just write code—I craft systems that think, learn, and evolve."
 
+🧠 Who I Am:
+Currently navigating the world of Artificial Intelligence as a B.Tech student at SRM Institute of Science and Technology, I’m driven by curiosity and a relentless need to build things that matter. My work bridges intelligent systems with real-world applications—making data move, decisions smarter, and user experiences seamless.
+
+⚙️ What I Do:
+
+Architect ML-powered tools that solve real-world problems
+
+Build end-to-end products from backend logic to frontend magic
+
+Integrate intelligence into systems—AI meets software engineering
+
+📌 Currently Working On:
+
+RentPredicto – A rent prediction engine powered by real-time scraped data and ML models
+
+Term Sheet Validator – A fintech-focused automation tool checking legal docs for validity and structure
+
+Sharpening my edge in DSA, LLMs, and AI infrastructure
+
+🧰 Toolbox:
+Python, Flask, TensorFlow, PyTorch, Scikit-learn, Java, C++, Git, Docker, REST APIs, HTML/CSS, JS, SQL, Linux
 ---
 
 ## 🔧 Tech Stack
