@@ -41,18 +41,6 @@ My work spans **Deep Learning, NLP, Reinforcement Learning, and Computer Vision*
 
 ---
 
-## 📊 Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imathul270&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imathul270&theme=transparent" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imathul270&theme=github-compact&hide_border=true&area=true" />
-</p>
-
----
 
 ## 🏆 Roles & Achievements  
 - 🧪 **R&D Lead** – Hyperloop Club, SRM  
