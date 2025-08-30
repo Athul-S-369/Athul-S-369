@@ -1,29 +1,63 @@
-# 👋 Hey there, I'm Athul S!
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Athul S</h1>
+<h3 align="center">🚀 AI & Deep Learning Enthusiast | Researcher | Builder of Intelligent Systems</h3>
 
-### 🚀 AI Student | 🔬 R&D Lead @ Hyperloop SRM | 💻 Freelancer | AI Explorer | Systems Thinker | Builder of Ideas
-
-"I don’t just write code—I craft systems that think, learn, and evolve."
-
-### **🧠 Who I Am:**
-Currently navigating the world of Artificial Intelligence as a B.Tech student at SRM Institute of Science and Technology, I’m driven by curiosity and a relentless need to build things that matter. My work bridges intelligent systems with real-world applications—making data move, decisions smarter, and user experiences seamless.
-
-### **⚙️ What I Do:**
-
-Architect ML-powered tools that solve real-world problems
-
-Build end-to-end products from backend logic to frontend magic
-
-Integrate intelligence into systems—AI meets software engineering
-
-### 📌 Currently Working On:
-
-**RentPredicto** – A rent prediction engine powered by real-time scraped data and ML models
-
-**Term Sheet Validator** – A fintech-focused automation tool checking legal docs for validity and structure
-
-Sharpening my edge in DSA, LLMs, and AI infrastructure
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+making;Deep+Learning+%7C+NLP+%7C+Reinforcement+Learning;Always+Learning+New+Technologies;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 ---
+
+## 🧑‍💻 About Me
+- 🎓 B.Tech AI student at **SRM Institute of Science and Technology**  
+- 🤖 Passionate about **Deep Learning, NLP, Reinforcement Learning, and Computer Vision**  
+- 📝 Currently researching **RL-based trajectory prediction in autonomous vehicles**  
+- 🌱 Exploring **MediaPipe internals & custom CV pipelines**  
+- 💡 Always building projects that solve **real-world problems**  
+
+---
+
+## 🔥 Projects
+🌟 Here are some of my key works:  
+
+- **[Text2Emotion](https://github.com/<your-username>/Text2Emotion)** – Advanced NLP tool for detecting **50+ emotions** from text  
+- **Reinforcement Learning for Trajectory Planning** – Autonomous vehicle trajectory decision-making  
+- **Computer Vision with MediaPipe** – Custom hand & face detection pipelines  
+
+---
+
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,git,github,linux,vscode,mysql,postgresql,flask" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight" alt="streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/<your-linkedin>" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:<your-email>" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/<your-username>" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 # 🔧 Tech Stack
 
