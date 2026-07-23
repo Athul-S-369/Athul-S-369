@@ -29,8 +29,6 @@
 
 ## `> whoami`
 
-## `> whoami`
-
 ```text
                          " ,                        
                      :: ,l;` !~[l,                  
