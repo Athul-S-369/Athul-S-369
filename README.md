@@ -1,45 +1,30 @@
-<!--
-  Athul S — GitHub Profile README
-  Neofetch-style live stats card (dark/light). Stats refresh via GitHub Actions + today.py.
--->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="dark_mode.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="light_mode.svg"
-  />
-  <img
-    alt="Athul S — Software Engineer · AI Systems · Full-Stack · ML Engineering"
-    src="dark_mode.svg"
-    width="100%"
-  />
-</picture>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=ATHUL%20S&fontSize=76&fontColor=D4AF37&fontAlignY=42&desc=Software%20Engineer%20%E2%80%94%20AI%20Systems%20%C2%B7%20Full-Stack%20%C2%B7%20ML%20Engineering&descAlignY=63&descColor=8B8FA8&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=900&color=D4AF37&center=true&vCenter=true&width=900&lines=Production+AI+Engineer+%C2%B7+ML+Systems+at+Scale;1.1B-param+LLM+Deployed+at+SRM+Hospital+%E2%80%94+Clinical+Use;FastAPI+%C2%B7+React+%C2%B7+PyTorch+%C2%B7+LangChain+%C2%B7+RAG+%C2%B7+Docker;IEEE%2FSpringer+Paper+in+Progress+%E2%80%94+AI+Transport+Simulation)](https://athuls.vercel.app)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=900&color=D4AF37&center=true&vCenter=true&width=900&lines=Production+AI+Engineer+%C2%B7+ML+Systems+at+Scale;1.1B-param+LLM+Deployed+at+SRM+Hospital+%E2%80%94+Clinical+Use;FastAPI+%C2%B7+React+%C2%B7+PyTorch+%C2%B7+LangChain+%C2%B7+RAG+%C2%B7+Docker;IEEE%2FSpringer+Paper+in+Progress+%E2%80%94+AI+Transport+Simulation;25%2B+Repos+%C2%B7+End-to-End+%C2%B7+Research+to+Production)](https://athuls.vercel.app)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/%E2%86%92%20athuls.vercel.app%20%E2%86%90-D4AF37?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=D4AF37)](https://athuls.vercel.app)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Athul-S-369&color=D4AF37&style=flat-square&label=profile+views)](https://github.com/Athul-S-369)
 &nbsp;
 [![Email](https://img.shields.io/badge/contact.athuls%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=D4AF37)](mailto:contact.athuls@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/athul-s-010117289)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Athul-S-369&color=D4AF37&style=flat-square&label=profile+views)](https://github.com/Athul-S-369)
+[![Location](https://img.shields.io/badge/Chennai%2C%20TN%20%C2%B7%20Open%20to%20Relocation-1a1a2e?style=flat-square&color=1a1a2e)](mailto:contact.athuls@gmail.com)
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## `> whoami`
 
@@ -58,20 +43,20 @@ class AthulS:
     now         = "Building the next thing."
 ```
 
-**Currently →** [![Currently](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=900&color=4A9EFF&center=false&vCenter=true&width=680&height=22&lines=Refining+MenoCare+for+broader+clinical+deployment;Co-authoring+IEEE%2FSpringer+AI+transport+paper+%E2%80%94+Q3+2026;Open+to+AI%2FML+engineering+roles+%E2%80%94+relocate+anywhere;Building+the+next+production+AI+system...)](https://athuls.vercel.app)
+**Currently &nbsp;→**&nbsp; [![Currently](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=900&color=4A9EFF&center=false&vCenter=true&width=680&height=22&lines=Refining+MenoCare+for+broader+clinical+deployment;Co-authoring+IEEE%2FSpringer+AI+transport+paper+%E2%80%94+Q3+2026;Open+to+AI%2FML+engineering+roles+%E2%80%94+relocate+anywhere;Building+the+next+production+AI+system...)](https://athuls.vercel.app)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## Shipped to Production
 
 > Two healthcare AI systems at SRM Hospital. Built solo. In active clinical use.
 
-**MenoCare** — 1.1B-param · 4-bit GGUF · sub-2s CPU inference · zero cloud · 50+ language RAG  
-**MenoAssist** — React · FastAPI · PostgreSQL · AI multilingual scoring · doctor reports · full pytest coverage
+**MenoCare** &nbsp;—&nbsp; 1.1B-param · 4-bit GGUF · sub-2s CPU inference · zero cloud · 50+ language RAG  
+**MenoAssist** &nbsp;—&nbsp; React · FastAPI · PostgreSQL · AI multilingual scoring · doctor reports · full pytest coverage
 
 `PyTorch` `LangChain` `RAG` `FAISS` `FastAPI` `React` `PostgreSQL` `Docker` `AWS S3` `MLflow`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## Build Log
 
@@ -89,21 +74,27 @@ class AthulS:
 | **Text2Emotion** | PyTorch · HuggingFace · Streamlit · FastAPI | Multi-class emotion detection · real-time inference |
 | [**DevIssueHub**](https://github.com/Athul-S-369/DevIssueHub) | React · Node.js · MongoDB · Express · JWT | Role-based issue tracker · full-stack · clean REST API |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## Arsenal
 
 <div align="center">
 
+<br/>
+
 [![Skills](https://skillicons.dev/icons?i=py,ts,js,cpp,react,nextjs,threejs,fastapi,flask,nodejs,pytorch,tensorflow,docker,kubernetes,aws,postgres,mongodb,redis,github,grafana,linux,vscode&theme=dark&perline=11)](https://athuls.vercel.app)
+
+<br/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## By the Numbers
 
 <div align="center">
+
+<br/>
 
 ![1.1B Params](https://img.shields.io/badge/1.1B%20param%20LLM-Clinical%20Deployment-D4AF37?style=for-the-badge&labelColor=161b22)
 ![50+ Languages](https://img.shields.io/badge/50%2B%20Languages-RAG%20Pipeline-D4AF37?style=for-the-badge&labelColor=161b22)
@@ -125,13 +116,17 @@ class AthulS:
 
 <img src="https://github-profile-trophy.vercel.app/?username=Athul-S-369&theme=darkhub&no-frame=true&margin-w=10&column=6&title=Commits,PullRequest,Stars,Repositories,Followers,MultiLanguage" width="100%"/>
 
+<br/>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## Track Record
 
 **B.Tech Artificial Intelligence** · SRMIST, Kattankulathur · 2023–2027 · CGPA **8.29** · SGPA **9.05** · No Backlogs
+
+<br/>
 
 | | |
 |---|---|
@@ -153,3 +148,7 @@ class AthulS:
 [![Email](https://img.shields.io/badge/contact.athuls%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.athuls@gmail.com)
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%"/>
