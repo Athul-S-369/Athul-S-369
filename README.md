@@ -28,6 +28,32 @@
 
 ## `> whoami`
 
+                         " ,
+                     :: ,l;` !~[l,
+                  ;: :! "^   !I!?]-_I
+               ,,       ;-?[}?!   ?]?!
+               +^   ^?cqWB@$$@%*dn,  {;
+              i!   :?xh$$$$$$$$$$$bl-1,
+              ;[  [|_x*$$$$$$$$$$$$uI,
+               {-_h[I{YdW$$$&WkpoMob";
+               l mk :I, }nvJc(~)Qbp&U "
+               !~0x` ,1)l~QaoQ|jLm%*mtz
+               ~zZ{n0ZkZ{z$$&$$$@$@M@kO
+               IYM\zhB*|i]wWoWZOWB%$%aX
+               ixbi!vX?   [jxaWnxoB%kbZ
+               `?n  _!  +YpMMkZrn#&%Z!:
+                 11 ,}[:lvOp8$@@MB%w-
+                  }-  ^+xm*&$$$$Wp\f"
+                  ir   ,}YpLo#qn}lj&),`
+                  lf           :|m$$Z!ilI;,^
+                   "        :}zkB$$%)!_!l!iilI;,`
+   ^,`.                 ^!}r0*B$$$b];!ii!iIllIllII;"
+"l:`                   ^?xXZh*8&w|^,-,~il!I;:;;:ii!i
+i'     .               "i(czcr1!`":il'-!I!II,l:`i,i!
+    .  `.           .  `'      `I:`_,`_II!I!:ll i`!i
+    '  ^. .  '.  ". ^^ ';I:::,,;;.;~^"_IIlIll;i ;.l:
+
+
 ```python
 class AthulS:
     role    = "Software Engineer — AI Systems & Full-Stack"
