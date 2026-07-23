@@ -26,47 +26,36 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
+
 ## `> whoami`
 
-                         " ,
-                     :: ,l;` !~[l,
-                  ;: :! "^   !I!?]-_I
-               ,,       ;-?[}?!   ?]?!
-               +^   ^?cqWB@$$@%*dn,  {;
-              i!   :?xh$$$$$$$$$$$bl-1,
-              ;[  [|_x*$$$$$$$$$$$$uI,
-               {-_h[I{YdW$$$&WkpoMob";
-               l mk :I, }nvJc(~)Qbp&U "
-               !~0x` ,1)l~QaoQ|jLm%*mtz
-               ~zZ{n0ZkZ{z$$&$$$@$@M@kO
-               IYM\zhB*|i]wWoWZOWB%$%aX
-               ixbi!vX?   [jxaWnxoB%kbZ
-               `?n  _!  +YpMMkZrn#&%Z!:
-                 11 ,}[:lvOp8$@@MB%w-
-                  }-  ^+xm*&$$$$Wp\f"
-                  ir   ,}YpLo#qn}lj&),`
-                  lf           :|m$$Z!ilI;,^
-                   "        :}zkB$$%)!_!l!iilI;,`
+## `> whoami`
+
+```text
+                         " ,                        
+                     :: ,l;` !~[l,                  
+                  ;: :! "^   !I!?]-_I               
+               ,,       ;-?[}?!   ?]?!              
+               +^   ^?cqWB@$$@%*dn,  {;             
+              i!   :?xh$$$$$$$$$$$bl-1,             
+              ;[  [|_x*$$$$$$$$$$$$uI,                 class AthulS:
+               {-_h[I{YdW$$$&WkpoMob";                     role    = "Software Engineer — AI Systems & Full-Stack"
+               l mk :I, }nvJc(~)Qbp&U "                    school  = "B.Tech AI · SRMIST · CGPA 8.29 | SGPA 9.05 | No Backlogs"
+               !~0x` ,1)l~QaoQ|jLm%*mtz                    based   = "Chennai, TN — Native: Trivandrum, Kerala — Open to Relocation"
+               ~zZ{n0ZkZ{z$$&$$$@$@M@kO             
+               IYM\zhB*|i]wWoWZOWB%$%aX                    shipped = {
+               ixbi!vX?   [jxaWnxoB%kbZ                        "MenoCare"   : "1.1B-param LLM · on-premise · SRM Hospital · daily clinical use",
+               `?n  _!  +YpMMkZrn#&%Z!:                        "MenoAssist" : "Full-stack clinical app · React · FastAPI · PostgreSQL · pytest",
+                 11 ,}[:lvOp8$@@MB%w-                      }
+                  }-  ^+xm*&$$$$Wp\f"               
+                  ir   ,}YpLo#qn}lj&),`                    researching = "PDE-based AI transport simulation — IEEE/Springer paper"
+                  lf           :|m$$Z!ilI;,^               now         = "Building the next thing."
+                   "        :}zkB$$%)!_!l!iilI;,`   
    ^,`.                 ^!}r0*B$$$b];!ii!iIllIllII;"
 "l:`                   ^?xXZh*8&w|^,-,~il!I;:;;:ii!i
 i'     .               "i(czcr1!`":il'-!I!II,l:`i,i!
     .  `.           .  `'      `I:`_,`_II!I!:ll i`!i
     '  ^. .  '.  ". ^^ ';I:::,,;;.;~^"_IIlIll;i ;.l:
-
-
-```python
-class AthulS:
-    role    = "Software Engineer — AI Systems & Full-Stack"
-    school  = "B.Tech AI · SRMIST · CGPA 8.29 | SGPA 9.05 | No Backlogs"
-    based   = "Chennai, Tamil Nadu — Native: Trivandrum, Kerala — Open to Relocation"
-
-    shipped = {
-        "MenoCare"   : "1.1B-param LLM · on-premise · SRM Hospital · daily clinical use",
-        "MenoAssist" : "Full-stack clinical app · React · FastAPI · PostgreSQL · pytest",
-    }
-
-    researching = "PDE-based AI transport simulation — co-authoring IEEE/Springer paper"
-    now         = "Building the next thing."
 ```
 
 **Currently &nbsp;→**&nbsp; [![Currently](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=900&color=4A9EFF&center=false&vCenter=true&width=680&height=22&lines=Refining+MenoCare+for+broader+clinical+deployment;Co-authoring+IEEE%2FSpringer+AI+transport+paper+%E2%80%94+Q3+2026;Open+to+AI%2FML+engineering+roles+%E2%80%94+relocate+anywhere;Building+the+next+production+AI+system...)](https://athuls.vercel.app)
